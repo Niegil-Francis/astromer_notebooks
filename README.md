@@ -1,2 +1,2 @@
 # astromer_notebooks
- Notebooks for the astromer library
+ Tutorial Notebooks for the Astromer library
